@@ -1,0 +1,6 @@
+@StripeAPP_HostAddress = http://localhost:5218
+
+GET {{StripeAPP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
